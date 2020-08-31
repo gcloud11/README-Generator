@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator-11",
+  "version": "1.0.0",
+  "description": "This project uses node.js and npm to create a README.md generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcloud11/README-Generator-11.git"
+  },
+  "author": "Gayla Cloud",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/gcloud11/README-Generator-11/issues"
+  },
+  "homepage": "https://github.com/gcloud11/README-Generator-11#readme"
+}
